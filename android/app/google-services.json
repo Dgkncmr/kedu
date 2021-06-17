@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951442504597",
+    "project_id": "kedu-2ac43",
+    "storage_bucket": "kedu-2ac43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951442504597:android:edd4e13e3c746dc266949c",
+        "android_client_info": {
+          "package_name": "com.example.kedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951442504597-jh69gh33shtnnen3hq8634qeaob9t64c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmzv9opfG7zCbfzTa4tE9shCqQPgphCLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951442504597-jh69gh33shtnnen3hq8634qeaob9t64c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
